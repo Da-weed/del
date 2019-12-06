@@ -10,7 +10,6 @@ namespace wamshale_consoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
             var Month = Enumerable.Range(1,12);
             foreach (var item in Month)
             {
